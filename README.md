@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siddiq47
+- 👀 I’m interested in AI and Deep Learning
+- 🌱 I’m currently learning Machine Learning and Python
+- 💞️ I’m looking to collaborate on Disease Control and mitigation
+- 📫 How to reach me @siddiq_319@rediffmail.com
